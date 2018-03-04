@@ -200,3 +200,21 @@ Load screen analysis took 0.03s
 Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
+<<<<<<< HEAD
+=======
+
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+>>>>>>> a2e2a6ca059eaf5c43d3df90e2e57a525c895791
