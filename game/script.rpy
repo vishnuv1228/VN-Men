@@ -46,4 +46,9 @@ label start:
     "I make a quick, healthy meal."
     "It's almost 6 pm. I guess I'll start grading these papers."
     #pause
-    
+    "It's 8pm. The food's cold. Taro isn't home yet."
+    "Again."
+    "The door creaks open. It's Taro."
+    "He heads straight to his room. Not tonight."
+    m "Taro, why are you late again? Where have you been? Dinner's cold."
+    t "I already ate. I don't need to explain that to you."
