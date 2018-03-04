@@ -453,4 +453,14 @@ Running _start took 0.00s
 primary display bounds: (0, 0, 2560, 1440)
 swap interval: 1 frames
 Windowed mode.
-Screen sizes: virtual=(1
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)

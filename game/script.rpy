@@ -40,8 +40,10 @@ label start:
 
     "I throw my keys on the counter and sprawl on the couch"
     # reflection on Ben
-   
-
+   "It isn't looking good. Ben's losing his motivation, he's skipping class, and now he doesn't care about academics. What can I do to help him?"
+   "Oh well, moping around isn't going to solve anything. Taro should be back soon. It's time to get cooking."
     # chopping/cooking sounds
     "I make a quick, healthy meal."
     "It's almost 6 pm. I guess I'll start grading these papers."
+    #pause
+    
